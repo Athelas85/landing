@@ -1,0 +1,22 @@
+.btn-banner {
+  background-color: rgb(23, 204, 144);
+  color: #ffffff;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  width: 85px;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.btn-banner:hover {
+  opacity: 1;
+  text-decoration: none;
+  background: #1EDD88;
+  color: white;
+}
+
+.btn-social {
+  padding: 10px 5px 10px 5px;
+  font-size: 40px;
+}
